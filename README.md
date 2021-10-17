@@ -10,9 +10,9 @@ I am able to stay up beyond recognition.
 
 apparently I wrote this. somehow.
 
-![e1547](https://github-readme-stats.vercel.app/api/pin/?username=clragon&repo=e1547&theme=radical)
+[![e1547](https://github-readme-stats.vercel.app/api/pin/?username=clragon&repo=e1547&theme=radical)](https://github.com/clragon/e1547)
 
-![e305](https://github-readme-stats.vercel.app/api/pin/?username=clragon&repo=e305&theme=radical)
+[![e305](https://github-readme-stats.vercel.app/api/pin/?username=clragon&repo=e305&theme=radical)](https://github.com/clragon/e305)
 
 ### find me
 
