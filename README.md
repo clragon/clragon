@@ -1,16 +1,29 @@
-### Hi there 👋
+## It's me, dragon.
 
-<!--
-**clragon/clragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### programming at 4 am
+by injecting coca cola zero into my veins,  
+I am able to stay up beyond recognition.
 
-Here are some ideas to get you started:
+[![stats](https://github-readme-stats.vercel.app/api?username=clragon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### things I have done
+
+apparently I wrote this. somehow.
+
+![e1547](https://github-readme-stats.vercel.app/api/pin/?username=clragon&repo=e1547&theme=radical)
+
+![e305](https://github-readme-stats.vercel.app/api/pin/?username=clragon&repo=e305&theme=radical)
+
+### find me
+
+I have a twitter account
+
+[![twitter](https://img.shields.io/badge/-Twitter-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/clragonite)  
+
+and a discord server.
+
+[![Discord Banner 2](https://discordapp.com/api/guilds/763321712766877727/widget.png?style=banner2)](https://discord.gg/MRwKGqfmUz)
+
+if you feel like giving me money, for whatever reason, you can do so here
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q22W6FW)
